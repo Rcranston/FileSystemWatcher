@@ -1,0 +1,36 @@
+﻿<Window x:Name="winDBWindow" x:Class="CSCDWPF.DBWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFMenusAndToolBar"
+        mc:Ignorable="d"
+        Title="Database Viewer" Height="583.682" Width="876.893">
+    <Grid>
+        <ListView x:Name="DBtable" HorizontalAlignment="Left" Height="501" Margin="0,42,0,0" VerticalAlignment="Top" Width="859" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="50" DisplayMemberBinding="{Binding Zero}">
+                        <GridViewColumnHeader Content="id" />
+                    </GridViewColumn>
+                    <GridViewColumn Width="175" DisplayMemberBinding="{Binding First}">
+                        <GridViewColumnHeader Content="Name" />
+                    </GridViewColumn>
+                    <GridViewColumn Width="250" DisplayMemberBinding="{Binding Second}">
+                        <GridViewColumnHeader Content="FullPath"  />
+                    </GridViewColumn>
+                    <GridViewColumn Width="250" DisplayMemberBinding="{Binding Third}">
+                        <GridViewColumnHeader  Content="Change"  />
+                    </GridViewColumn>
+                    <GridViewColumn Width="120" DisplayMemberBinding="{Binding Four}">
+                        <GridViewColumnHeader Content="Time" Width="147" />
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <TextBox x:Name="usrQur" HorizontalAlignment="Left" Height="23" Margin="140,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="576" SpellCheck.IsEnabled="True"/>
+        <Button x:Name="SubButtin" Content="Submit Quary" HorizontalAlignment="Left" Margin="721,10,0,0" VerticalAlignment="Top" Width="138" Height="23" Click="SubButtin_Click"/>
+        <Label Content="SELECT * FROM FSW +" HorizontalAlignment="Left" Margin="10,9,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

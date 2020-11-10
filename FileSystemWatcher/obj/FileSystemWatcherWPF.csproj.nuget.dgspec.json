@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ryanc\\Desktop\\WPFMenusAndToolBar\\FileSystemWatcher\\FileSystemWatcherWPF.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ryanc\\Desktop\\WPFMenusAndToolBar\\FileSystemWatcher\\FileSystemWatcherWPF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ryanc\\Desktop\\WPFMenusAndToolBar\\FileSystemWatcher\\FileSystemWatcherWPF.csproj",
+        "projectName": "FileSystemWatcherWPF",
+        "projectPath": "C:\\Users\\Ryanc\\Desktop\\WPFMenusAndToolBar\\FileSystemWatcher\\FileSystemWatcherWPF.csproj",
+        "packagesPath": "C:\\Users\\Ryanc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ryanc\\Desktop\\WPFMenusAndToolBar\\FileSystemWatcher\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Ryanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite.Design": {
+              "target": "Package",
+              "version": "[2.0.0-preview1-final, )"
+            },
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.113.6, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

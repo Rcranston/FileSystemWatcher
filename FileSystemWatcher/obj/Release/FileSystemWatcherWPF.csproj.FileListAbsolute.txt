@@ -1,0 +1,60 @@
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\FileSystemWatcher with WPF.exe.config
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\FileSystemWatcher with WPF.exe
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\FileSystemWatcher with WPF.pdb
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\Microsoft.Data.Sqlite.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\Microsoft.Extensions.Configuration.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\Remotion.Linq.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.Data.SQLite.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.AppContext.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.Collections.Immutable.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.Console.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.Data.Common.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.Globalization.Calendars.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.Interactive.Async.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.IO.Compression.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.IO.FileSystem.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.Net.Http.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.Net.Sockets.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.ValueTuple.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\obj\Release\FileSystemWatcherWPF.csprojAssemblyReference.cache
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\obj\Release\FileSystemWatcher with WPF.exe.config
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\obj\Release\DBWindow.g.cs
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\obj\Release\MainWindow.g.cs
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\obj\Release\App.g.cs
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\obj\Release\FileSystemWatcher with WPF_MarkupCompile.cache
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\obj\Release\FileSystemWatcher with WPF_MarkupCompile.lref
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\obj\Release\DBWindow.baml
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\obj\Release\MainWindow.baml
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\obj\Release\FileSystemWatcher with WPF.g.resources
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\obj\Release\CSCDWPF.Properties.Resources.resources
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\obj\Release\FileSystemWatcherWPF.csproj.GenerateResource.cache
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\obj\Release\FileSystemWatcherWPF.csproj.CoreCompileInputs.cache
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\obj\Release\FileSystemWatcherWPF.csproj.CopyComplete
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\obj\Release\FileSystemWatcher with WPF.exe
+C:\Users\Ryanc\Desktop\WPFMenusAndToolBar\FileSystemWatcher\obj\Release\FileSystemWatcher with WPF.pdb
