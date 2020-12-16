@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xCtL8DBDubuzY6QHUsBNnMwmKkxkQM/icS5YdlGxBNed8a9uYcLKnGDeFsLjO2LRqZUhTjjm+c+TDqyLHK4Qxw==",
+  "dgSpecHash": "SbxixuQxk4LsVuYfZtvmhwv5zSSTD6qnoN2Txw+3OuLz0c7g1Di48K1ITG72yNdLM6JUHm8dK+fDa6wHHXVHSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ryanc\\Desktop\\WPFMenusAndToolBar\\FileSystemWatcher\\FileSystemWatcherWPF.csproj",
+  "projectFilePath": "C:\\Users\\Ryanc\\source\\repos\\CranstonRMidTermFileSystemWatcher\\FileSystemWatcher\\FileSystemWatcherWPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ryanc\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\Ryanc\\.nuget\\packages\\microsoft.data.sqlite.core\\2.0.0-preview1-final\\microsoft.data.sqlite.core.2.0.0-preview1-final.nupkg.sha512",

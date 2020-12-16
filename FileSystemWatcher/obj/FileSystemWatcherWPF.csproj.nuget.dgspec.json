@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ryanc\\Desktop\\WPFMenusAndToolBar\\FileSystemWatcher\\FileSystemWatcherWPF.csproj": {}
+    "C:\\Users\\Ryanc\\source\\repos\\CranstonRMidTermFileSystemWatcher\\FileSystemWatcher\\FileSystemWatcherWPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ryanc\\Desktop\\WPFMenusAndToolBar\\FileSystemWatcher\\FileSystemWatcherWPF.csproj": {
+    "C:\\Users\\Ryanc\\source\\repos\\CranstonRMidTermFileSystemWatcher\\FileSystemWatcher\\FileSystemWatcherWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ryanc\\Desktop\\WPFMenusAndToolBar\\FileSystemWatcher\\FileSystemWatcherWPF.csproj",
+        "projectUniqueName": "C:\\Users\\Ryanc\\source\\repos\\CranstonRMidTermFileSystemWatcher\\FileSystemWatcher\\FileSystemWatcherWPF.csproj",
         "projectName": "FileSystemWatcherWPF",
-        "projectPath": "C:\\Users\\Ryanc\\Desktop\\WPFMenusAndToolBar\\FileSystemWatcher\\FileSystemWatcherWPF.csproj",
+        "projectPath": "C:\\Users\\Ryanc\\source\\repos\\CranstonRMidTermFileSystemWatcher\\FileSystemWatcher\\FileSystemWatcherWPF.csproj",
         "packagesPath": "C:\\Users\\Ryanc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ryanc\\Desktop\\WPFMenusAndToolBar\\FileSystemWatcher\\obj\\",
+        "outputPath": "C:\\Users\\Ryanc\\source\\repos\\CranstonRMidTermFileSystemWatcher\\FileSystemWatcher\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
